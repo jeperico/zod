@@ -45,6 +45,6 @@ Run `PersonSchema.ts`:
 
 ``` bash
 
-ts-node PersonSchema.ts 
+make run
 
 ```
